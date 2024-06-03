@@ -2556,8 +2556,8 @@ location: $message.header#/correlationId
 
 ### <a name="runtimeExpression"></a>Runtime Expression
 
-A runtime expression allows values to be defined based on information that will be available within the message.
-This mechanism is used by [Correlation ID Object](#correlationIdObject) and [Operation Reply Address Object](#operationReplyAddressObject).
+A runtime expression allows values to be defined based on information available within the message.
+This mechanism is used by [Channel Parameter Object](#parameterObject), [Correlation ID Object](#correlationIdObject) and [Operation Reply Address Object](#operationReplyAddressObject).
 
 The runtime expression is defined by the following [ABNF](https://tools.ietf.org/html/rfc5234) syntax:
 
