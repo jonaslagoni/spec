@@ -1,6 +1,6 @@
 [![AsyncAPI Logo](./assets/logo.png)](https://www.asyncapi.com)
 
-## Read the specification
+## Reading the specification
 
 The latest draft specification can be found at [spec/asyncapi.md](./spec/asyncapi.md) which tracks the latest commit to the master branch in this repository.
 
